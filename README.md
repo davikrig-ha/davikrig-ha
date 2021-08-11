@@ -8,3 +8,4 @@
 - [Projeto Anna Bella](https://github.com/davikrig-ha/Projeto_Anna_Bella)
 - [Projeto Tech Blog](https://github.com/davikrig-ha/Projeto-Blog-Tech)
 - [Projeto Site de Notícias](https://github.com/davikrig-ha/Projeto_Noticias_Cidade)
+- [Projeto Site de um hotel](https://github.com/davikrig-ha/Projeto_Site_Hotel)
