@@ -5,11 +5,12 @@
 
 <h1>Projetos</h1>
 
-<h2>Bootstrap</h2>
+<h1>BOOTSTRAP</h1>
+
 - [Projeto Finans](https://github.com/davikrig-ha/Projeto_Finans)
 
 
-<h2>HTML e CSS</h2>
+<h1>HTML e CSS</h1>
 
 - [Projeto Anna Bella](https://github.com/davikrig-ha/Projeto_Anna_Bella)
 - [Projeto Tech Blog](https://github.com/davikrig-ha/Projeto-Blog-Tech)
