@@ -8,6 +8,7 @@
 <h1>BOOTSTRAP</h1>
 
 - [Projeto Finans](https://github.com/davikrig-ha/Projeto_Finans)
+- [Projeto Clone Layout Spotify](https://github.com/davikrig-ha/Projeto-Spotify-Layout)
 
 
 <h1>HTML e CSS</h1>
