@@ -36,6 +36,7 @@
 - [Java Com Spring](https://github.com/davikrig-ha/Java_Spring_Entra21)
 - [Java Orientado a Objetos](https://github.com/davikrig-ha/Java_Orientado_Objetos_Entra21)
 - [Git e GitHub](https://github.com/davikrig-ha/Aprendendo_Git_Entra21)
+- [MySQL](https://github.com/davikrig-ha/Estudos_MySQL_E21)
 
 <h2>Curso de Desenvolvimento Web (CDW)</h2>
 
