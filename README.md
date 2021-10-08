@@ -5,6 +5,10 @@
 
 <h1>PROJETOS</h1>
 
+<h2>PHP</h2>
+
+- [Projeto Cadastro de Cursos](https://github.com/davikrig-ha/Projeto_Cadastro_Cursos)
+
 <h2>JavaScript</h2>
 
 - [Projeto Controle de Despesas](https://github.com/davikrig-ha/Projeto_Controle_Despesas)
