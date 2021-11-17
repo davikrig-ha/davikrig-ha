@@ -58,13 +58,6 @@
 - [Java Com Spring](https://github.com/davikrig-ha/Java_Spring_Entra21)
 - [Java Orientado a Objetos](https://github.com/davikrig-ha/Java_Orientado_Objetos_Entra21)
 
-
-<h2>NestJs</h2>
-
-<h3>studies</h3>
-
-- [NestJS](https://github.com/davikrig-ha/nestjs_estudos)
-
 <h2>MySQL</h2>
 
 <h3>studies</h3>
