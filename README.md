@@ -3,6 +3,18 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davikrig-ha)](https://github.com/davikrig-ha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-luiz-coelho-93a620213/)](https://www.linkedin.com/in/davi-luiz-coelho-93a620213/)
 
+<h2>Angular</h2>
+
+<h3>projects</h3>
+
+- [Musics](https://github.com/davikrig-ha/70s-musics)
+
+<h2>NestJs</h2>
+
+<h3>stuies</h3>
+
+- [Nest](https://github.com/davikrig-ha/nest_studies)
+
 <h2>PHP</h2>
 
 <h3>projects</h3>
