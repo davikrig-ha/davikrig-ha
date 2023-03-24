@@ -11,7 +11,7 @@
 
 <h2>NestJs</h2>
 
-<h3>stuies</h3>
+<h3>studies</h3>
 
 - [Nest](https://github.com/davikrig-ha/nest_studies)
 
@@ -21,7 +21,7 @@
 
 - [Projects Cadastro de Cursos](https://github.com/davikrig-ha/Projeto_Cadastro_Cursos)
 
-<h3>stuies</h3>
+<h3>studies</h3>
 
 - [PHP](https://github.com/davikrig-ha/Php_Estudos)
 
